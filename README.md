@@ -1,6 +1,6 @@
-# MozDM Design
+# BugMark Guides
 
-Wireframes and Use Cases for MozDM
+BugMark Documentation
 
 ## Required authoring software
 
@@ -9,16 +9,16 @@ Wireframes and Use Cases for MozDM
 
 ## Publishing a site
 
-Requires write access to `http://github.com/mvscorg/mozdm-design`.
+Requires write access to `http://github.com/mvscorg/bugmark-guides`.
 
 1. download the repo     
 
-    `git clone git@github.com:mvscorg/mozdm-design.git`
+    `git clone git@github.com:mvscorg/bugmark-guides.git`
 
 2. build/deploy the site 
 
     `bin/deploy_all`
 
-View the HTTP version of the site at [https://mvscorg.github.io/mozdm-design](https://mvscorg.github.io/mozdm-design).
+View the HTTP version of the site at [https://mvscorg.github.io/bugmark-guides](https://mvscorg.github.io/bugmark-guides).
 
-Get a link to the IPFS version of the site at [https://mvscorg.github.io/mozdm-design/meta/ipfs](https://mvscorg.github.io/mozdm-design/meta/ipfs).
+Get a link to the IPFS version of the site at [https://mvscorg.github.io/bugmark-guides/meta/ipfs](https://mvscorg.github.io/bugmark-guides/meta/ipfs).
