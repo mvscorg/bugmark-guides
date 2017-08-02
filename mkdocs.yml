@@ -2,7 +2,7 @@ site_name:        'BugMark Guides'
 site_author:      'MVSC'
 site_description: 'BugMark Application Documentation'
 site_url:         'https://mvscorg.github.io/bugmark-guides'
-site_favicon:     'img/favicon.gif'
+site_favicon:     'img/favbug.ico'
 theme_dir:        '_theme/material'
 copyright:        'Copyright &copy; 2017 Mountain View Smart Contracts'
 extra:
