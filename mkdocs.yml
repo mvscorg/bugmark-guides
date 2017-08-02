@@ -1,0 +1,28 @@
+site_name:        'BugMark Guides'
+site_author:      'MVSC'
+site_description: 'BugMark Application Documentation'
+site_url:         'https://mvscorg.github.io/bugmark-guides'
+site_favicon:     'img/favicon.gif'
+theme_dir:        '_theme/material'
+copyright:        'Copyright &copy; 2017 Mountain View Smart Contracts'
+extra:
+  disqus: 'xdm-docs'
+  palette:
+    primary: 'orange'
+  social:
+    - type: 'github'
+      link: 'https://github.com/mvscorg/bugmark-guides'
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc(permalink=true)
+pages:
+  - Welcome:             index.md
+  - About BugMark:       about.md
+  - Design:
+    - Overview:         design/overview.md
+    - Elements:         design/elements.md
+    - Actors:           design/actors.md
+  - Under Construction:
+    - Incentives DSL:      tbd/incentive.md
+    - Implementation:      tbd/implementation.md

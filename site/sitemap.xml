@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/about/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/design/overview/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/design/elements/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/design/actors/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/cases/all_roles/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/cases/product_owner/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/cases/product_manager/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/cases/developer/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/cases/publisher/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/cases/counterparty/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/ref/cve_attributes/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/meta/collaboration/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/meta/ipfs/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/tbd/incentive/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mvscorg.github.io/bugmark-design/tbd/implementation/</loc>
+     <lastmod>2017-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>
